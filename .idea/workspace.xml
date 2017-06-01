@@ -2,102 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afde48bf-990d-43b8-938e-df8b8b137a30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/assets/readme_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_intro/mock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_news/photo1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_news/photo2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/face1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/face2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/face3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/face4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/face5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_video/video-poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_video/video-poster2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/assets/readme_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/thumbnail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/blueprints.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/config/plugins/email.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/config/plugins/login.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_contact/form.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_features/features.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_intro/intro.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_news/news.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_pricing/pricing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/testimonials.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_text/text.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_video/video.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/thankyou/formdata.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/error/error.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/pages/login/login.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/assets/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/blueprints.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/css/simplesearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/languages.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/pages/simplesearch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/simplesearch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/simplesearch.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/templates/partials/simplesearch_base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/templates/partials/simplesearch_item.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/templates/partials/simplesearch_searchbox.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/templates/simplesearch_results.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/plugins/simplesearch/templates/simplesearch_results.json.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/problem-check-g-d874e30a" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.eot" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.ttf" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.woff" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Encoders.graffle" afterPath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Encoders.graffle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Mime.graffle" afterPath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Mime.graffle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Transports.graffle" afterPath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/doc/uml/Transports.graffle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/tests/_samples/files/textfile.zip" afterPath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/tests/_samples/files/textfile.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/0cf904b96a34fbc1273a233bb49b68e4.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/0cf904b96a34fbc1273a233bb49b68e4.yaml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/47ac3676a3b948955f4fa946a279abef.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/47ac3676a3b948955f4fa946a279abef.yaml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/languages/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/languages/master-localhost.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/gpm/2f/5b34633036316530633262396431646531376662383938326163626432656630305d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/cache/gpm/2f/5b34633036316530633262396431646531376662383938326163626432656630305d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/gpm/5c/5b65313764383761366563663130663835373533643964353539666563303835335d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/cache/gpm/5c/5b65313764383761366563663130663835373533643964353539666563303835335d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/gpm/7f/5b38646432646139633164643534383762623636303966356663376237383262365d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/cache/gpm/7f/5b38646432646139633164643534383762623636303966356663376237383262365d5b315d.doctrinecache.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/themes/landio/templates/modular/list.html.twig" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/pages/01.home/_list/video-poster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/pages/01.home/_list/video-poster2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/themes/landio/templates/modular/video.html.twig" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/user/pages/01.home/_video/video.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_list/list.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/062249916a5cedbb1957c8c4556718f0.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/062249916a5cedbb1957c8c4556718f0.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/0f2a7a81155c939e99a6a07e5e5bd52f.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/0f2a7a81155c939e99a6a07e5e5bd52f.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/3e8fa4e2059ca189ad95f801d129d167.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/3e8fa4e2059ca189ad95f801d129d167.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/7313dc0c7dd873d4a48b8361fde8a868.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/7313dc0c7dd873d4a48b8361fde8a868.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/7b62dc1b516abc596e3f75a13dd244a4.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/7b62dc1b516abc596e3f75a13dd244a4.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/93391f0b926accb178f71b29bb45e41c.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/93391f0b926accb178f71b29bb45e41c.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/99bb0c755669a3eddbc8fa08d3724878.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/99bb0c755669a3eddbc8fa08d3724878.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/a9a47bd10cb73cad2d7646d3097343bb.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/a9a47bd10cb73cad2d7646d3097343bb.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/b42fb57c856857afd2d1147a0af46b10.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/b42fb57c856857afd2d1147a0af46b10.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/c6de54e32b74e1f2fd9d5b32da3b19e5.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/c6de54e32b74e1f2fd9d5b32da3b19e5.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/dd826fdc33e7c636ffa15c9b5b8db8bc.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/dd826fdc33e7c636ffa15c9b5b8db8bc.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/f18326b154bf874b33909aea6cc01992.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f18326b154bf874b33909aea6cc01992.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/f2638c650c72fb310305fcf4f96f74b4.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f2638c650c72fb310305fcf4f96f74b4.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/f4348e473a1f62128cd1f846061a33cf.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f4348e473a1f62128cd1f846061a33cf.yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/compiled/files/f4a004ee9c03c8b7a8680e4ea7322332.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f4a004ee9c03c8b7a8680e4ea7322332.yaml.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/popularity/daily.json" afterPath="$PROJECT_DIR$/logs/popularity/daily.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/popularity/monthly.json" afterPath="$PROJECT_DIR$/logs/popularity/monthly.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/popularity/totals.json" afterPath="$PROJECT_DIR$/logs/popularity/totals.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/popularity/visitors.json" afterPath="$PROJECT_DIR$/logs/popularity/visitors.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/accounts/admin.yaml" afterPath="$PROJECT_DIR$/user/accounts/admin.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/config/system.yaml" afterPath="$PROJECT_DIR$/user/config/system.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/css/chartist.min.css" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/css/chartist.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/css/uikit.css" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/css/uikit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/gosass.sh" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/gosass.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/scss.sh" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/scss.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/themes/grav/watch.sh" afterPath="$PROJECT_DIR$/user/plugins/admin/themes/grav/watch.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/vendor/bin/picofeed" afterPath="$PROJECT_DIR$/user/plugins/admin/vendor/bin/picofeed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/vendor/fguillot/picofeed/picofeed" afterPath="$PROJECT_DIR$/user/plugins/admin/vendor/fguillot/picofeed/picofeed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/admin/vendor/zendframework/zendxml/tests/phpunit.xml.dist" afterPath="$PROJECT_DIR$/user/plugins/admin/vendor/zendframework/zendxml/tests/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" afterPath="$PROJECT_DIR$/user/plugins/email/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/classes/Login.php" afterPath="$PROJECT_DIR$/user/plugins/login/classes/Login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/languages.yaml" afterPath="$PROJECT_DIR$/user/plugins/login/languages.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/login.php" afterPath="$PROJECT_DIR$/user/plugins/login/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/templates/partials/login-form.html.twig" afterPath="$PROJECT_DIR$/user/plugins/login/templates/partials/login-form.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/templates/partials/login-status.html.twig" afterPath="$PROJECT_DIR$/user/plugins/login/templates/partials/login-status.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Authenticator.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Authenticator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Cookie.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Cookie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/DB.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/DB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/PDO.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/PDO.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/StorageInterface.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/src/Rememberme/Storage/StorageInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/RemembermeTest.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/RemembermeTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/Storage/PDO.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/Storage/PDO.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/Storage/tokens.xml" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/Storage/tokens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/bootstrap.php" afterPath="$PROJECT_DIR$/user/plugins/login/vendor/birke/rememberme/test/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/pages/01.home/modular.md" afterPath="$PROJECT_DIR$/user/pages/01.home/modular.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,11 +52,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/pages/01.home/_news/news.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="116">
+                <caret line="4" column="22" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/list.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intro.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/intro.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/form.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/pages/01.home/_list/list.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="307">
+                <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/news.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -142,6 +140,8 @@
       <list>
         <option value="$PROJECT_DIR$/user/accounts/admin.yaml" />
         <option value="$PROJECT_DIR$/user/themes/landio/templates/modular/pricing.html.twig" />
+        <option value="$PROJECT_DIR$/user/pages/01.home/_list/list.md" />
+        <option value="$PROJECT_DIR$/user/themes/landio/templates/modular/list.html.twig" />
       </list>
     </option>
   </component>
@@ -309,36 +309,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="landio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forms" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grav" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -379,6 +349,58 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_news" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grav" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_list" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grav" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="accounts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -392,12 +414,67 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/user" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -409,24 +486,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496319113469</updated>
-      <workItem from="1496319117236" duration="692000" />
+      <workItem from="1496319117236" duration="2823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="692000" />
+    <option name="totallyTimeSpent" value="2823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -450,14 +527,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/news.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user/accounts/admin.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -495,6 +564,62 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/intro.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/news.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_list/list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="307">
+            <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/form.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_news/news.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" column="22" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/landio/templates/modular/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

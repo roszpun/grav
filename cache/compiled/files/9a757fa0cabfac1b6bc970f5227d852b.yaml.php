@@ -1,7 +1,7 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
-    'filename' => '/Users/danielszerszen/Code/grav/user/plugins/admin/blueprints/admin/pages/raw.yaml',
+    'filename' => '/Users/danielszerszen/Code/grav/user/plugins/admin/blueprints/admin/pages/modular_raw.yaml',
     'modified' => 1493026568,
     'data' => [
         'rules' => [
@@ -74,8 +74,7 @@ return [
                                                 ],
                                                 'folder' => [
                                                     'type' => 'text',
-                                                    'label' => 'PLUGIN_ADMIN.FOLDER_NAME',
-                                                    'help' => 'PLUGIN_ADMIN.FOLDER_NAME_HELP',
+                                                    'label' => 'PLUGIN_ADMIN.FILENAME',
                                                     'validate' => [
                                                         'rule' => 'slug',
                                                         'required' => true
@@ -92,10 +91,9 @@ return [
                                                 'name' => [
                                                     'type' => 'select',
                                                     'classes' => 'fancy',
-                                                    'label' => 'PLUGIN_ADMIN.DISPLAY_TEMPLATE',
-                                                    'help' => 'PLUGIN_ADMIN.DISPLAY_TEMPLATE_HELP',
+                                                    'label' => 'PLUGIN_ADMIN.MODULAR_TEMPLATE',
                                                     'default' => 'default',
-                                                    'data-options@' => '\\Grav\\Common\\Page\\Pages::types',
+                                                    'data-options@' => '\\Grav\\Common\\Page\\Pages::modularTypes',
                                                     'validate' => [
                                                         'required' => true
                                                     ]

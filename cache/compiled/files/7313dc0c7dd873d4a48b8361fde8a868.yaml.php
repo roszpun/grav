@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/danielszerszen/Code/grav/user/themes/landio/blueprints.yaml',
-    'modified' => 1494845476,
+    'modified' => 1493026570,
     'data' => [
         'name' => 'Landio',
         'version' => '1.3.0',

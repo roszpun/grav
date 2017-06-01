@@ -1,0 +1,46 @@
+<style>
+    .list{
+        text-align: center;
+    }
+    .list ul {
+        list-style: none;
+        padding-bottom: 50px;
+    }
+
+    .list ul:after{
+        display: block;
+        content: '';
+        clear: both;
+    }
+
+    .list h1{
+        margin: 60px 0;
+    }
+    
+    .list li{
+        width: 50%;
+        float: left;
+    }
+
+    .list img {
+        margin: 15px auto;
+        border-radius: 50%;
+        display: block;
+        width: 150px;
+        height: auto;
+    }
+</style>
+<div class="container list">
+    {{ page.content }}
+    <ul>
+        {% for user in page.header.users %}
+            <li>
+                <img src="{{ page.media[user.picture].url }}">
+
+                {{ user.name|e }} <strong>{{ user.surname|e }}</strong>
+                -
+                <a style="color: steelblue" href="https://github.com/{{ user.git }}">GitHub</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
