@@ -181,7 +181,7 @@ class FormPlugin extends Plugin
             }
 
             // Handle posting if needed.
-            if (!empty($_POST) && (isset($_POST['data']) || isset($_POST['__form-file-uploader__']))) {
+            if (!empty($_POST) && isset($_POST['data'])) {
 
                 $current_form_name = $this->getFormName($this->grav['page']);
                 $this->json_response = [];
@@ -343,14 +343,7 @@ class FormPlugin extends Plugin
                 break;
             case 'redirect':
                 $this->grav['session']->setFlashObject('form', $form);
-                $url = ((string)$params);
-                $vars = array(
-                    'form' => $form
-                );
-                /** @var Twig $twig */
-                $twig = $this->grav['twig'];
-                $url = $twig->processString($url, $vars);
-                $this->grav->redirect($url);
+                $this->grav->redirect((string)$params);
                 break;
             case 'reset':
                 if (Utils::isPositive($params)) {

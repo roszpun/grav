@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/danielszerszen/Code/grav/user/accounts/admin.yaml',
-    'modified' => 1494845305,
+    'modified' => 1496319137,
     'data' => [
         'email' => 'roszpun8@gmail.com',
         'fullname' => 'Daniel, Kuba',
@@ -17,6 +17,7 @@ return [
                 'login' => true
             ]
         ],
-        'hashed_password' => '$2y$10$3c4FAWQQX8L5fzC1ux7GHO.X0mmswO2rhQRmn3PfdDlN0GI7V1vPC'
+        'hashed_password' => '$2a$04$0XgfIrqzWcPeJCp7w2/ete9PNS0/3x4Y5/Pc48Is6tv3sNXYAK8Ii',
+        'reset' => '50f3212349fde574ff8f7d9ea8cf4c1b::1496923729'
     ]
 ];

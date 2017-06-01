@@ -1,13 +1,21 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1494845485,
-    'checksum' => '2d6fda256cd7e0e8e0b00928c9afc0b3',
+    'timestamp' => 1496319994,
+    'checksum' => 'c835ab8c26538e2dba43df4cd29543ad',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
                 'modified' => 1494845263
+            ],
+            'plugins/email' => [
+                'file' => 'user/config/plugins/email.yaml',
+                'modified' => 1493026566
+            ],
+            'plugins/login' => [
+                'file' => 'user/config/plugins/login.yaml',
+                'modified' => 1493026566
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
@@ -15,7 +23,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026566
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -23,47 +31,47 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1494845485
+                'modified' => 1493026566
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026566
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026566
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026566
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026566
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026568
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026568
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026570
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1494845472
+                'modified' => 1493026570
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026570
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
@@ -71,7 +79,11 @@ return [
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1493026482
+                'modified' => 1493026570
+            ],
+            'plugins/simplesearch' => [
+                'file' => 'user/plugins/simplesearch/simplesearch.yaml',
+                'modified' => 1493026572
             ]
         ]
     ],
@@ -131,9 +143,9 @@ return [
             ],
             'email' => [
                 'enabled' => true,
-                'from' => NULL,
+                'from' => 'your@email.here',
                 'from_name' => NULL,
-                'to' => NULL,
+                'to' => 'your@email.here',
                 'to_name' => NULL,
                 'mailer' => [
                     'engine' => 'mail',
@@ -175,7 +187,7 @@ return [
             'login' => [
                 'enabled' => true,
                 'built_in_css' => true,
-                'route' => NULL,
+                'route' => '/user-login',
                 'redirect_after_login' => NULL,
                 'route_register' => false,
                 'route_activate' => '/activate_user',
@@ -215,7 +227,8 @@ return [
                 'max_pw_resets_count' => 0,
                 'max_pw_resets_interval' => 60,
                 'max_login_count' => 0,
-                'max_login_interval' => 2
+                'max_login_interval' => 2,
+                'redirect' => '/'
             ],
             'markdown-notices' => [
                 'enabled' => true,
@@ -230,6 +243,23 @@ return [
             'problems' => [
                 'enabled' => true,
                 'built_in_css' => true
+            ],
+            'simplesearch' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'display_button' => false,
+                'min_query_length' => 3,
+                'route' => '/search',
+                'template' => 'simplesearch_results',
+                'filters' => [
+                    'category' => 'blog'
+                ],
+                'filter_combinator' => 'and',
+                'ignore_accented_characters' => false,
+                'order' => [
+                    'by' => 'date',
+                    'dir' => 'desc'
+                ]
             ]
         ],
         'media' => [
@@ -491,18 +521,18 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'Free Landing Page HTML Template',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@test.com'
+                'name' => 'Peter Finla',
+                'email' => 'john@email.com'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+                'description' => 'Land.io is a carefully crafted landing page UI kit and landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini.'
             ],
             'summary' => [
                 'enabled' => true,
@@ -514,7 +544,52 @@ return [
             'routes' => NULL,
             'blog' => [
                 'route' => '/blog'
-            ]
+            ],
+            'logo' => [
+                'icon' => 'logo',
+                'text' => 'Land.io',
+                'url' => NULL
+            ],
+            'userlinks' => [
+                0 => [
+                    'text' => 'Sample link',
+                    'url' => '#'
+                ],
+                1 => [
+                    'text' => 'Another Sample link',
+                    'url' => '#'
+                ]
+            ],
+            'header' => [
+                'title' => 'Land.io, blissful innovation.',
+                'description' => 'Craft your journey, <em>absolutely free</em>, with <a href="#" class="jumbolink">Admin plugin support.</a>.',
+                'buttons' => [
+                    0 => [
+                        'text' => 'Some Button',
+                        'url' => 'http://tympanus.net/codrops/?p=19439',
+                        'icon' => 'sketch'
+                    ]
+                ]
+            ],
+            'footer' => [
+                'links' => [
+                    0 => [
+                        'text' => 'Terms &amp; Conditions',
+                        'url' => '#'
+                    ],
+                    1 => [
+                        'text' => 'Legals',
+                        'url' => '#'
+                    ]
+                ]
+            ],
+            'socialcount' => [
+                'url' => 'http://www.getgrav.org',
+                'facebook_url' => '#',
+                'twitter_url' => 'http://www.twitter.com/getgrav',
+                'linkedin_url' => '#'
+            ],
+            'copyright' => 'Land.io 2015. <br> Designed by Peter Finlan, developed by Taty Grassini, exclusively for Codrops.'
         ],
         'streams' => [
             'schemes' => [
@@ -591,7 +666,7 @@ return [
                     'twig' => true
                 ],
                 'markdown' => [
-                    'extra' => false,
+                    'extra' => true,
                     'auto_line_breaks' => false,
                     'auto_url_links' => false,
                     'escape_markup' => false,
@@ -635,7 +710,7 @@ return [
                 ]
             ],
             'cache' => [
-                'enabled' => true,
+                'enabled' => false,
                 'check' => [
                     'method' => 'file'
                 ],
@@ -675,7 +750,7 @@ return [
                 ]
             ],
             'errors' => [
-                'display' => true,
+                'display' => 0,
                 'log' => true
             ],
             'debugger' => [

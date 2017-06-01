@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/danielszerszen/Code/grav/user/plugins/error/languages.yaml',
-    'modified' => 1493026482,
+    'modified' => 1493026570,
     'data' => [
         'en' => [
             'PLUGIN_ERROR' => [
@@ -56,6 +56,12 @@ return [
             'PLUGIN_ERROR' => [
                 'ERROR' => '错误',
                 'ERROR_MESSAGE' => '呃，似乎这个页面不存在。'
+            ]
+        ],
+        'cs' => [
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Chyba',
+                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
             ]
         ]
     ]

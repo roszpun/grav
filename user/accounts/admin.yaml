@@ -8,4 +8,7 @@ access:
     super: true
   site:
     login: true
-hashed_password: $2y$10$3c4FAWQQX8L5fzC1ux7GHO.X0mmswO2rhQRmn3PfdDlN0GI7V1vPC
+hashed_password: $2y$10$on5G22S/tMaD0/HXIO4YGe73T5A.zEguIztfMyC4W6keLghK.pUsa
+reset: '50f3212349fde574ff8f7d9ea8cf4c1b::1496923729'
+language: en
+authenticated: true

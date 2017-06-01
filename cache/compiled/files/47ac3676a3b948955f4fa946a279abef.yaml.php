@@ -2,24 +2,23 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/danielszerszen/Code/grav/user/config/system.yaml',
-    'modified' => 1493026482,
+    'modified' => 1493026566,
     'data' => [
-        'absolute_urls' => false,
         'home' => [
             'alias' => '/home'
         ],
         'pages' => [
-            'theme' => 'antimatter',
-            'markdown' => [
-                'extra' => false
-            ],
+            'theme' => 'landio',
             'process' => [
                 'markdown' => true,
                 'twig' => false
+            ],
+            'markdown' => [
+                'extra' => true
             ]
         ],
         'cache' => [
-            'enabled' => true,
+            'enabled' => false,
             'check' => [
                 'method' => 'file'
             ],
@@ -39,19 +38,12 @@ return [
             'js_pipeline' => false,
             'js_minify' => true
         ],
-        'errors' => [
-            'display' => true,
-            'log' => true
-        ],
         'debugger' => [
             'enabled' => false,
             'twig' => true,
             'shutdown' => [
                 'close_connection' => true
             ]
-        ],
-        'gpm' => [
-            'verify_peer' => true
         ]
     ]
 ];

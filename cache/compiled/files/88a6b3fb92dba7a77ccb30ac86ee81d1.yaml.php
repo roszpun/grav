@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://landio/landio.yaml',
-    'modified' => 1494845476,
+    'modified' => 1493026570,
     'data' => [
         'enabled' => true
     ]
